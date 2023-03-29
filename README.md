@@ -7,4 +7,4 @@ This project was an attempt to study Data visualization using Tableau. Serendept
 Further perusal and experimentation with geo-tagging literature available on the internet yielded the following method of finding latitude and logitudes of 662 numbers of power stations.
 </div>
 <br></br>
-Details at https://arun-thomas.xyz/2019-09-17-Thermal_Power_Plants_In_India_An_Interactive_Visualization_/
+Details at https://arun-thomas.in/2019-09-17-Thermal_Power_Plants_In_India_An_Interactive_Visualization_/
